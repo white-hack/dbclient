@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Nov 17 20:37:52 GMT+09:00 2022
-org.eclipse.tycho.surefire.osgibooter-3.0.0.jar>central=
-org.eclipse.tycho.surefire.osgibooter-3.0.0.pom>central=
