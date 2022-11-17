@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.draw2dl' version='3.12.100.20221014131737'>
+    <properties size='3'>
+      <property name='artifact.size' value='607680'/>
+      <property name='download.size' value='607680'/>
+      <property name='download.md5' value='9f2a85d5b32eea23af22419654209079'/>
+    </properties>
+  </artifact>
+</artifacts>

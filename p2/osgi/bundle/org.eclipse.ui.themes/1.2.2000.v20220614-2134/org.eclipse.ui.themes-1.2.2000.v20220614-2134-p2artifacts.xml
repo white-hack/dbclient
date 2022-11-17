@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.ui.themes' version='1.2.2000.v20220614-2134'>
+    <properties size='10'>
+      <property name='artifact.size' value='34839'/>
+      <property name='download.size' value='34839'/>
+      <property name='maven-groupId' value='eclipse.platform.ui'/>
+      <property name='maven-artifactId' value='org.eclipse.ui.themes'/>
+      <property name='maven-version' value='1.2.2000-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+      <property name='download.stats' value='org.eclipse.ui.themes/1.2.2000.v20220614-2134'/>
+      <property name='download.md5' value='377258e61df9ecf1ad43e622699b3207'/>
+      <property name='download.checksum.md5' value='377258e61df9ecf1ad43e622699b3207'/>
+      <property name='download.checksum.sha-256' value='cd9d5fa2d23b8a7e28c385f10dce9466ca94bd29392caa084b0137dfff826b73'/>
+    </properties>
+  </artifact>
+</artifacts>

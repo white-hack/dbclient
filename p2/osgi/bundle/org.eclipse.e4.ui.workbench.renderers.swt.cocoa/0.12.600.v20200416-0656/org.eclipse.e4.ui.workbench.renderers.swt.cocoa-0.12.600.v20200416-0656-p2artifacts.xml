@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.workbench.renderers.swt.cocoa' version='0.12.600.v20200416-0656'>
+    <properties size='10'>
+      <property name='artifact.size' value='30333'/>
+      <property name='download.size' value='30333'/>
+      <property name='maven-groupId' value='org.eclipse.e4'/>
+      <property name='maven-artifactId' value='org.eclipse.e4.ui.workbench.renderers.swt.cocoa'/>
+      <property name='maven-version' value='0.12.600-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+      <property name='download.stats' value='org.eclipse.e4.ui.workbench.renderers.swt.cocoa/0.12.600.v20200416-0656'/>
+      <property name='download.md5' value='7c5e78f7095a1e0072eb97cc24f2142d'/>
+      <property name='download.checksum.md5' value='7c5e78f7095a1e0072eb97cc24f2142d'/>
+      <property name='download.checksum.sha-256' value='aafd604838dc67c88617363434d4c6f33a3aa7cd95741fca98fedbfc42fb4372'/>
+    </properties>
+  </artifact>
+</artifacts>

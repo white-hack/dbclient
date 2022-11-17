@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='org.eclipse.update.feature' id='org.eclipse.equinox.executable' version='3.8.1800.v20220720-1949'>
+    <properties size='11'>
+      <property name='artifact.size' value='433715'/>
+      <property name='download.size' value='433715'/>
+      <property name='maven-groupId' value='org.eclipse.equinox.feature'/>
+      <property name='maven-artifactId' value='org.eclipse.equinox.executable'/>
+      <property name='maven-version' value='3.8.1800-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-feature'/>
+      <property name='download.stats' value='org.eclipse.equinox.executable.feature.jar/3.8.1800.v20220720-1949'/>
+      <property name='download.contentType' value='application/zip'/>
+      <property name='download.md5' value='ea93167a65509e8906f0dcc5690ae5ab'/>
+      <property name='download.checksum.md5' value='ea93167a65509e8906f0dcc5690ae5ab'/>
+      <property name='download.checksum.sha-256' value='d76d0d7a4abe388ccaef2c25982748983e412bd96b7cebf6882a594d5d9fab42'/>
+    </properties>
+  </artifact>
+</artifacts>

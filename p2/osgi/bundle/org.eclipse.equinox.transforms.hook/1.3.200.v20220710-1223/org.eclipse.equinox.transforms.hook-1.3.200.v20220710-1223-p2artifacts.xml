@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.equinox.transforms.hook' version='1.3.200.v20220710-1223'>
+    <properties size='10'>
+      <property name='artifact.size' value='32529'/>
+      <property name='download.size' value='32529'/>
+      <property name='maven-groupId' value='org.eclipse.equinox'/>
+      <property name='maven-artifactId' value='org.eclipse.equinox.transforms.hook'/>
+      <property name='maven-version' value='1.3.200-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+      <property name='download.stats' value='org.eclipse.equinox.transforms.hook/1.3.200.v20220710-1223'/>
+      <property name='download.md5' value='39d6efef227698105e75d7b10c26580c'/>
+      <property name='download.checksum.md5' value='39d6efef227698105e75d7b10c26580c'/>
+      <property name='download.checksum.sha-256' value='8f52aa8942736c4bbb11a155e4bd23ed89581dc6e0218cdaea3e0ba848d99eb4'/>
+    </properties>
+  </artifact>
+</artifacts>

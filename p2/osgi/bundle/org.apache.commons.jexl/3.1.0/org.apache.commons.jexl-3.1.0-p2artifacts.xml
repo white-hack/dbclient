@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.apache.commons.jexl' version='3.1.0'>
+    <properties size='3'>
+      <property name='artifact.size' value='397422'/>
+      <property name='download.size' value='397422'/>
+      <property name='download.md5' value='d59fed0ea84b84a1574b023eacd47f1a'/>
+    </properties>
+  </artifact>
+</artifacts>

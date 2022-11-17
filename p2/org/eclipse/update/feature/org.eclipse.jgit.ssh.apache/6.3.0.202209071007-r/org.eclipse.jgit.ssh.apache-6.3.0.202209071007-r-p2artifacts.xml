@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='org.eclipse.update.feature' id='org.eclipse.jgit.ssh.apache' version='6.3.0.202209071007-r'>
+    <properties size='10'>
+      <property name='artifact.size' value='16603'/>
+      <property name='download.size' value='16603'/>
+      <property name='maven-groupId' value='org.eclipse.jgit.feature'/>
+      <property name='maven-artifactId' value='org.eclipse.jgit.ssh.apache'/>
+      <property name='maven-version' value='6.3.0.202209071007-r'/>
+      <property name='maven-type' value='eclipse-feature'/>
+      <property name='download.contentType' value='application/zip'/>
+      <property name='download.md5' value='dae03ac686bc85f1f79a45fc8024d10c'/>
+      <property name='download.checksum.md5' value='dae03ac686bc85f1f79a45fc8024d10c'/>
+      <property name='download.checksum.sha-256' value='b46bfdae2a2fc0218fa39b0b41760afd374b4c048f0f3d087fe937afa29444bd'/>
+    </properties>
+  </artifact>
+</artifacts>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='net.bytebuddy.byte-buddy-agent' version='1.12.10'>
+    <properties size='3'>
+      <property name='artifact.size' value='257411'/>
+      <property name='download.size' value='257411'/>
+      <property name='download.md5' value='b38c175272756e6dd2d0d7aa71e22412'/>
+    </properties>
+  </artifact>
+</artifacts>

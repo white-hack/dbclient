@@ -1,0 +1,13 @@
+#Thu Nov 17 20:47:49 GMT+09:00 2022
+http_status_line=HTTP/1.1 200 OK
+date=Thu, 17 Nov 2022 11\:45\:07 GMT
+server=Apache/2.4.54 (Debian)
+content-length=49569
+last-modified=Thu, 08 Sep 2022 17\:06\:38 GMT
+FILE-LAST_UPDATED=1668685669163
+keep-alive=timeout\=15, max\=100
+etag="c1a1-5e82d73e19c10"
+connection=Keep-Alive
+content-type=application/java-archive
+accept-ranges=bytes
+HTTP_RESPONSE_CODE=200

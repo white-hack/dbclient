@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.apache.sshd.sftp' version='2.8.0.v20211227-1750'>
+    <properties size='8'>
+      <property name='artifact.size' value='395535'/>
+      <property name='download.size' value='395535'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.apache.sshd.sftp'/>
+      <property name='maven-version' value='2.8.0-SNAPSHOT'/>
+      <property name='download.md5' value='851c4c5a54a50f24508599bfe02b735a'/>
+      <property name='download.checksum.md5' value='851c4c5a54a50f24508599bfe02b735a'/>
+      <property name='download.checksum.sha-256' value='aeab293d15fe4a1b177a3ce3ce40a18fd954154b16484e8678f231d438ab5226'/>
+    </properties>
+  </artifact>
+</artifacts>

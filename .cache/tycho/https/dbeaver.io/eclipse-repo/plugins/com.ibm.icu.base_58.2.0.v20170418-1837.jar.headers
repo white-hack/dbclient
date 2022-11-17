@@ -1,0 +1,12 @@
+#Thu Nov 17 20:42:30 GMT+09:00 2022
+http_status_line=HTTP/1.1 200 OK
+date=Thu, 17 Nov 2022 11\:34\:59 GMT
+FILE-LAST_UPDATED=1668685350309
+server=nginx/1.18.0 (Ubuntu)
+last-modified=Fri, 14 Oct 2022 13\:17\:47 GMT
+content-length=185824
+etag="6349617b-2d5e0"
+connection=keep-alive
+content-type=application/java-archive
+accept-ranges=bytes
+HTTP_RESPONSE_CODE=200

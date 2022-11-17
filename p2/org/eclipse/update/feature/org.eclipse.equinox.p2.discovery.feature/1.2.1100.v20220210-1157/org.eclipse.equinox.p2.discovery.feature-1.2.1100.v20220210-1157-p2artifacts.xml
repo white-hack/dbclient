@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='org.eclipse.update.feature' id='org.eclipse.equinox.p2.discovery.feature' version='1.2.1100.v20220210-1157'>
+    <properties size='11'>
+      <property name='artifact.size' value='19522'/>
+      <property name='download.size' value='19522'/>
+      <property name='maven-groupId' value='org.eclipse.equinox.p2'/>
+      <property name='maven-artifactId' value='org.eclipse.equinox.p2.discovery.feature'/>
+      <property name='maven-version' value='1.2.1100-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-feature'/>
+      <property name='download.stats' value='org.eclipse.equinox.p2.discovery.feature.feature.jar/1.2.1100.v20220210-1157'/>
+      <property name='download.contentType' value='application/zip'/>
+      <property name='download.md5' value='fe7e713508a186836835ef2926daac17'/>
+      <property name='download.checksum.md5' value='fe7e713508a186836835ef2926daac17'/>
+      <property name='download.checksum.sha-256' value='995031f92901415e379215b86fd433bf80a4bfc067b6dc9e2e89775c8d443548'/>
+    </properties>
+  </artifact>
+</artifacts>

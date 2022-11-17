@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.urischeme' version='1.2.100.v20211001-1648'>
+    <properties size='10'>
+      <property name='artifact.size' value='53150'/>
+      <property name='download.size' value='53150'/>
+      <property name='maven-groupId' value='eclipse.platform.ui'/>
+      <property name='maven-artifactId' value='org.eclipse.urischeme'/>
+      <property name='maven-version' value='1.2.100-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+      <property name='download.stats' value='org.eclipse.urischeme/1.2.100.v20211001-1648'/>
+      <property name='download.md5' value='79267b57d1f3b382cfd306edca3cdc05'/>
+      <property name='download.checksum.md5' value='79267b57d1f3b382cfd306edca3cdc05'/>
+      <property name='download.checksum.sha-256' value='db0e0342bf8795b2682ffc6ff1fd1723c4717081bda789053084be791912ba37'/>
+    </properties>
+  </artifact>
+</artifacts>

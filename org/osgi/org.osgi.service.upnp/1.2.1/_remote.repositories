@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 17 20:47:13 GMT+09:00 2022
+org.osgi.service.upnp-1.2.1.jar>central=
+org.osgi.service.upnp-1.2.1.pom>central=

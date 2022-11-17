@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.reconciler.dropins' version='1.4.100.v20211217-1131'>
+    <properties size='10'>
+      <property name='artifact.size' value='51798'/>
+      <property name='download.size' value='51798'/>
+      <property name='maven-groupId' value='org.eclipse.equinox'/>
+      <property name='maven-artifactId' value='org.eclipse.equinox.p2.reconciler.dropins'/>
+      <property name='maven-version' value='1.4.100-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+      <property name='download.stats' value='org.eclipse.equinox.p2.reconciler.dropins/1.4.100.v20211217-1131'/>
+      <property name='download.md5' value='04d522563ef932715f421cfb3a2bac48'/>
+      <property name='download.checksum.md5' value='04d522563ef932715f421cfb3a2bac48'/>
+      <property name='download.checksum.sha-256' value='a97f012dd7be8cbbd25e2e0237825182d812dbdf490ca44e9ea723bfbb1915a7'/>
+    </properties>
+  </artifact>
+</artifacts>

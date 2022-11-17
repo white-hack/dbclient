@@ -1,0 +1,17 @@
+#Thu Nov 17 20:44:02 GMT+09:00 2022
+http_status_line=HTTP/1.1 404 Not Found
+date=Thu, 17 Nov 2022 11\:44\:02 GMT
+server=GitHub.com
+content-length=9339
+vary=Accept-Encoding
+permissions-policy=interest-cohort\=()
+via=1.1 varnish
+access-control-allow-origin=*
+FILE-LAST_UPDATED=1668685442494
+content-security-policy=default-src 'none'; style-src 'unsafe-inline'; img-src data\:; connect-src 'self'
+connection=keep-alive
+etag="636ad58a-247b"
+content-type=text/html; charset\=utf-8
+accept-ranges=bytes
+age=0
+HTTP_RESPONSE_CODE=404

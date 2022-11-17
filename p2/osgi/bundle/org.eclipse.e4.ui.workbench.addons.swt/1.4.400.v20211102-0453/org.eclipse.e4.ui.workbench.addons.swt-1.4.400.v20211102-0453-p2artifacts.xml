@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.workbench.addons.swt' version='1.4.400.v20211102-0453'>
+    <properties size='10'>
+      <property name='artifact.size' value='120980'/>
+      <property name='download.size' value='120980'/>
+      <property name='maven-groupId' value='eclipse.platform.ui'/>
+      <property name='maven-artifactId' value='org.eclipse.e4.ui.workbench.addons.swt'/>
+      <property name='maven-version' value='1.4.400-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+      <property name='download.stats' value='org.eclipse.e4.ui.workbench.addons.swt/1.4.400.v20211102-0453'/>
+      <property name='download.md5' value='4bd0253db4099906f18c4802161ab0dc'/>
+      <property name='download.checksum.md5' value='4bd0253db4099906f18c4802161ab0dc'/>
+      <property name='download.checksum.sha-256' value='88a01bcc0f384e968dd22dbaa469e5b6d72ebd7fc41c77da22b0969e02e47c45'/>
+    </properties>
+  </artifact>
+</artifacts>

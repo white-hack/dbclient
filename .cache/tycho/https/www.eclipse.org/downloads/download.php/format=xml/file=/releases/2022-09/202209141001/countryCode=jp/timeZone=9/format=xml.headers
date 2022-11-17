@@ -1,0 +1,14 @@
+#Thu Nov 17 20:38:44 GMT+09:00 2022
+http_status_line=HTTP/1.1 200 OK
+date=Thu, 17 Nov 2022 11\:38\:50 GMT
+server=nginx
+content-length=4119
+vary=Accept-Encoding,Accept-Encoding
+strict-transport-security=max-age\=63072000; includeSubDomains; preload
+set-cookie=PHPSESSID\=5f1apsb8csgeipjqs66801gt0k4k3nf6; path\=/; HttpOnly
+FILE-LAST_UPDATED=1668685124939
+content-security-policy=frame-ancestors 'self'
+connection=keep-alive
+content-type=text/xml
+cache-control=no-cache
+HTTP_RESPONSE_CODE=200

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.bouncycastle.bcprov' version='1.71.0.v20220723-1943'>
+    <properties size='8'>
+      <property name='artifact.size' value='6316414'/>
+      <property name='download.size' value='6316414'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.bouncycastle.bcprov'/>
+      <property name='maven-version' value='1.71.0-SNAPSHOT'/>
+      <property name='download.md5' value='2e09d4b8765c199bfb1c5c425170842c'/>
+      <property name='download.checksum.md5' value='2e09d4b8765c199bfb1c5c425170842c'/>
+      <property name='download.checksum.sha-256' value='2806c649cc028bcee9edca6b3da0ef8d78186babc7886cf3cb13abb561aabacb'/>
+    </properties>
+  </artifact>
+</artifacts>

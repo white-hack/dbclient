@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.swt.gtk' version='1.1.100.v20210108-1832'>
+    <properties size='10'>
+      <property name='artifact.size' value='10994'/>
+      <property name='download.size' value='10994'/>
+      <property name='maven-groupId' value='org.eclipse.e4'/>
+      <property name='maven-artifactId' value='org.eclipse.e4.ui.swt.gtk'/>
+      <property name='maven-version' value='1.1.100-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+      <property name='download.stats' value='org.eclipse.e4.ui.swt.gtk/1.1.100.v20210108-1832'/>
+      <property name='download.md5' value='2f858925acae0c91265d41bca816cd54'/>
+      <property name='download.checksum.md5' value='2f858925acae0c91265d41bca816cd54'/>
+      <property name='download.checksum.sha-256' value='7f944a594f9686a84611a504c5bebf49bc256ec49ef7da6fabcb157d617f0515'/>
+    </properties>
+  </artifact>
+</artifacts>

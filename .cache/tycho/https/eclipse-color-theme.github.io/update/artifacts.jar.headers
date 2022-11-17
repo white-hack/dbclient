@@ -1,0 +1,19 @@
+#Thu Nov 17 20:44:03 GMT+09:00 2022
+http_status_line=HTTP/1.1 200 OK
+date=Thu, 17 Nov 2022 11\:44\:03 GMT
+server=GitHub.com
+content-length=717
+expires=Thu, 17 Nov 2022 11\:54\:02 GMT
+vary=Accept-Encoding
+permissions-policy=interest-cohort\=()
+via=1.1 varnish
+access-control-allow-origin=*
+FILE-LAST_UPDATED=1668685443049
+last-modified=Sat, 04 Jul 2015 18\:06\:27 GMT
+connection=keep-alive
+etag="559820a3-2cd"
+content-type=application/java-archive
+accept-ranges=bytes
+cache-control=max-age\=600
+age=0
+HTTP_RESPONSE_CODE=200

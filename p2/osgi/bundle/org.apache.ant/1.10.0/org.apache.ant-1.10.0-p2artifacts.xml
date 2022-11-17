@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.apache.ant' version='1.10.0'>
+    <properties size='3'>
+      <property name='artifact.size' value='26068'/>
+      <property name='download.size' value='26068'/>
+      <property name='download.md5' value='c255035d7f13f04cd6ef4d16b884ef0e'/>
+    </properties>
+  </artifact>
+</artifacts>

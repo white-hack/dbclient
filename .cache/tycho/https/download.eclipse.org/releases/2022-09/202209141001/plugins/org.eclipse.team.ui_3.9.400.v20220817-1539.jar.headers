@@ -1,0 +1,14 @@
+#Thu Nov 17 20:43:27 GMT+09:00 2022
+http_status_line=HTTP/1.1 200 OK
+date=Thu, 17 Nov 2022 11\:43\:26 GMT
+server=nginx
+content-length=1490626
+strict-transport-security=max-age\=63072000; includeSubDomains; preload
+last-modified=Thu, 08 Sep 2022 17\:06\:37 GMT
+FILE-LAST_UPDATED=1668685407080
+content-security-policy=frame-ancestors 'self'
+connection=keep-alive
+etag="16bec2-5e82d73c8a56e"
+content-type=application/x-java-archive
+accept-ranges=bytes
+HTTP_RESPONSE_CODE=200

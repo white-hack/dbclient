@@ -1,0 +1,13 @@
+#Thu Nov 17 20:48:08 GMT+09:00 2022
+http_status_line=HTTP/1.1 200 OK
+date=Fri, 13 Jun 2014 21\:19\:20 GMT
+server=Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.3.33
+content-length=89899
+last-modified=Fri, 13 Jun 2014 21\:19\:20 GMT
+FILE-LAST_UPDATED=1668685688103
+keep-alive=timeout\=5, max\=100
+etag=W/"15f2b-5e82d73cf9aae"
+connection=Keep-Alive
+content-type=application/x-java-archive
+accept-ranges=bytes
+HTTP_RESPONSE_CODE=200

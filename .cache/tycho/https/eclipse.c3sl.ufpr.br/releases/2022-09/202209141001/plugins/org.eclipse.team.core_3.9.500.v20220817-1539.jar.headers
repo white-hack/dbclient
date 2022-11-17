@@ -1,0 +1,12 @@
+#Thu Nov 17 20:43:24 GMT+09:00 2022
+http_status_line=HTTP/1.1 200 OK
+date=Thu, 17 Nov 2022 11\:43\:24 GMT
+FILE-LAST_UPDATED=1668685404734
+server=Apache
+last-modified=Thu, 08 Sep 2022 17\:06\:40 GMT
+content-length=412518
+etag="64b66-5e82d73f2f192"
+connection=close
+content-type=application/java-archive
+accept-ranges=bytes
+HTTP_RESPONSE_CODE=200

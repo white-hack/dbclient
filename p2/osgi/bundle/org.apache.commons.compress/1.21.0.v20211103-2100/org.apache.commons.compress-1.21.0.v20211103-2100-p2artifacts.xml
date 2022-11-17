@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.apache.commons.compress' version='1.21.0.v20211103-2100'>
+    <properties size='8'>
+      <property name='artifact.size' value='1085946'/>
+      <property name='download.size' value='1085946'/>
+      <property name='maven-groupId' value='org.eclipse.orbit.bundles'/>
+      <property name='maven-artifactId' value='org.apache.commons.compress'/>
+      <property name='maven-version' value='1.21.0-SNAPSHOT'/>
+      <property name='download.md5' value='ee4995511fb364792862030e3b233501'/>
+      <property name='download.checksum.md5' value='ee4995511fb364792862030e3b233501'/>
+      <property name='download.checksum.sha-256' value='d43ff5166d3112b25180c2686f6d2a95732fe5280cbdc3143e778629554148c4'/>
+    </properties>
+  </artifact>
+</artifacts>
